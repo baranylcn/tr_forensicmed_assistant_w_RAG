@@ -3,6 +3,6 @@ langchain-openai
 sqlalchemy
 pandas
 pymysql
-langchain_chroma
-langchain_core
-langchain_community
+langchain-chroma
+langchain-core
+langchain-community
